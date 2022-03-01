@@ -1,4 +1,4 @@
-package simplefactory;
+package creational.factorymethod;
 
 public interface ProduceNotebook {
     void assemble();

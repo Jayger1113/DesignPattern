@@ -1,6 +1,9 @@
-package simplefactory;
+package creational.factorymethod;
+
+
 
 public class ProduceMac implements ProduceNotebook {
+
     @Override
     public void assemble() {
         System.out.println("assemble mac notebook");

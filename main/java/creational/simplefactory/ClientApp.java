@@ -1,4 +1,4 @@
-package simplefactory;
+package creational.simplefactory;
 
 public class ClientApp {
 

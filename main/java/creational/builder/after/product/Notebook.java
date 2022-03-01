@@ -1,4 +1,4 @@
-package builder.after.product;
+package creational.builder.after.product;
 
 public class Notebook {
     private String cpu;

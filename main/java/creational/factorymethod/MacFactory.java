@@ -1,7 +1,4 @@
-package factorymethod.mac;
-
-import factorymethod.NotebookFactory;
-import factorymethod.ProduceNotebook;
+package creational.factorymethod;
 
 public class MacFactory implements NotebookFactory {
     @Override

@@ -1,4 +1,4 @@
-package builder.after.builder;
+package creational.builder.after.builder;
 
 public class NotebookClientApp {
 

@@ -1,6 +1,6 @@
-package builder.after.builder;
+package creational.builder.after.builder;
 
-import builder.after.product.Notebook;
+import creational.builder.after.product.Notebook;
 
 public abstract class NotebookBuilder {
     protected Notebook notebook;

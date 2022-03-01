@@ -1,6 +1,9 @@
-package simplefactory;
+package creational.factorymethod;
+
+
 
 public class ProduceWindow implements ProduceNotebook {
+
     @Override
     public void assemble() {
         System.out.println("assemble window notebook");

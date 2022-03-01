@@ -1,7 +1,4 @@
-package factorymethod.window;
-
-import factorymethod.NotebookFactory;
-import factorymethod.ProduceNotebook;
+package creational.factorymethod;
 
 public class WindowFactory implements NotebookFactory {
     @Override

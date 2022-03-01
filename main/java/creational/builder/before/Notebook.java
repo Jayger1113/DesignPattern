@@ -1,4 +1,4 @@
-package builder.before;
+package creational.builder.before;
 
 public class Notebook {
     private String cpu;

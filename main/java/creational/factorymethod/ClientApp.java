@@ -1,7 +1,4 @@
-package factorymethod;
-
-import factorymethod.mac.MacFactory;
-import factorymethod.window.WindowFactory;
+package creational.factorymethod;
 
 public class ClientApp {
 
