@@ -12,5 +12,7 @@
 ![img.png](img.png)
 
 
-
-
+Component：定義裝飾者與被裝飾者要實作的介面。
+ConcreteComponent：被裝飾者
+Decorator：裝飾者的父類別。
+ConcreteDecorator：裝飾者。
